@@ -2,7 +2,12 @@ How to contribute
 =======================
 
 ######  Kinds of contributions:
-We welcome a variety of contributions.
+We welcome a variety of contributions:
+* adding (peer reviewed) references to any of the background sections 
+* adding translations (proofread by 2 natives speakers) in languages other than English 
+* adding a dissent
+* changing something in the background sections
+* changing something in the definitions
 
 All the previously described contributions can easily be done opening an issue (or a pull request) on github as [detailed below](#Via-Github). Should you not be familiar with github and necessitate help, please follow the instructions at the [end of the page](#Via-Google-Form). 
 
