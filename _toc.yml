@@ -1,0 +1,14 @@
+format: jb-book
+root: content/intro
+parts:
+- caption: Overview
+  chapters:
+  - file: content/PBR2024
+  - file: content/acknowledgements
+  - file: content/coifundings
+  - file: content/contributions
+- caption: Glossary
+  chapters:
+  - file: content/EN/EN_glossary
+  - file: content/IT/IT_glossary
+  - file: content/references

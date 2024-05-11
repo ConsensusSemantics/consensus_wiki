@@ -1,0 +1,48 @@
+Glossary in English
+=======================
+
+### Abstract / Abstractness
+
+###### Definition
+1) (historical): Referring to the quality of a concept (or word meaning) that has no sensory or motor salience (in opposition to concrete) in that it cannot be seen, heard, touched, felt, smelled, tasted or acted upon; 
+2) (contemporary): The quality of a concept (or word) whose meaning is understood primarily on the basis of language, but also draws from interoceptive experiences, including emotion, introspection, and metacognition. Abstract concepts are often exemplified by perceptually dissimilar associated actions and events. 
+
+###### Background
+```{toggle}
+The traditional definition of abstractness corresponds to the people’s understanding of abstract vs. concrete, as revealed in subjective rating studies (Paivio et al., 1968). For most words, there is high agreement among participants about the degree to which the words refer to abstract or concrete concepts. There is also high agreement across rating studies, for instance, agreement between the ratings collected by Brysbaert et al. (2014) and the MRC ratings (Coltheart, 1981), despite differences in instructions given to the participants. 
+
+The reason to doubt an abstract vs. concrete bipolar dimension in the semantic system is that there is no opposition between language-based and experience-based information. Both sources of information correlate positively with each other and complement each other. For instance, it is possible to produce viable concreteness ratings with embedding-based semantic vectors derived from language corpora (Hollis et al., 2017). Therefore, most information based on experience can also be retrieved based on language use. Some argue that language-based information may be easier to activate, so that the meaning of concrete words is often predominantly based on language information, as it is for abstract words (Gatti et al., 2022; Louwerse, 2018). 
+
+Although no formally articulated dichotomous opposition exists, it is widely acknowledged that concrete and abstract concepts both vary along numerous dimensions (Banks & Connell, 2023; Barsalou et al., 2018; Crutch et al., 2013; Reilly et al., 2016; Shallice & Cooper, 2013). Abstract words typically refer to multiple interacting elements rather than a single element. For example, the concept of "cause" includes at least one agent, an action, and at least one patient. It has been argued that abstract words differ in their network organization relative concrete words, with abstract words characterized by higher contextual and thematic/associative salience (Cousins et al., 2016; Crutch & Warrington, 2005) and lower taxonomic cohesion (for recent work on taxonomic relationships among abstract words, see Persichetti, Shao, Denning, Gotts, and Martin, 2024). More diffuse organization among abstract words is also associated with lower perceptual similarity among their associative lexical networks (Henningsen-Schomers & Pulvermüller, 2022; Langland-Hassan et al., 2021; Lupyan & Mirman, 2013; Borghi, 2022; Borghi et al., 2019). 
+
+Abstract words are typically regarded as hard words (Gleitman et al., 2005), and these disproportionate difficulties for abstract words are typically manifested across many domains, including reading, spelling, word recognition, and serial recall (Fini et al., 2021; Sadoski et al., 1997; Sadoski & Paivio, 1994; Villani et al., 2022; Walker & Hulme, 1999). In addition to these objective performance discrepancies, people have reported lower confidence in understanding abstract word meanings and a stronger need for social didactic interactions with other people to acquire abstract word meanings (Fini et al., 2021; Mazzuca et al., 2022; Villani et al., 2019). Words referring to abstract concepts are typically acquired later (Della Rosa et al., 2010; Montefinese et al., 2019; Ponari et al., 2018; Ramey et al., 2013; Reilly & Kean, 2007). In addition, it is thought that abstract words are learned primarily via linguistic input (e.g., definitions, co-occurrence statistics) relative to concrete words that are dually coded both in the language system but also with sensorimotor grounding (Della Rosa et al., 2010; Paivio, 2013; Reggin et al., 2021; Wauters et al., 2003).  
+
+Many researchers have underscored the role of language and social interaction in the acquisition, representation, and use of abstract concepts (Borghi, 2023; Dove, 2022). Some authors have also suggested a role for inner speech during abstract word processing (not only overt but also covert language) (Borghi & Fernyhough, 2023; Dove, 2019; Fini et al., 2021). Experimental (behavioral and fMRI) and rating studies implicate the involvement of the mouth motor system during abstract word processing, a finding that is consistent with the role of language in abstract meaning (Barca et al., 2017, 2020; Borghi et al., 2011; Borghi & Zarcone, 2016; Dreyer & Pulvermüller, 2018; Ghio et al., 2013). 
+
+Abstract meanings are typically associated with more emotional/affective experience (Kousta et al., 2011; Lund et al., 2019; Newcombe et al., 2012; Ponari et al., 2018; Vigliocco et al., 2014), although not all abstract words are affect-laden. Similarly, abstract concepts, particularly emotional ones, are rated as evoking more inner and interoceptive experiences than concrete concepts (Connell et al., 2018; Lynott et al., 2020; Villani et al., 2021; Kelly et al. (in press)). In addition to language and emotion, abstract concepts are related to visual or motor experience, social constellations and mental states (Harpaintner, Sim, Trumpp, Ulrich, & Kiefer 2020, Kiefer, Pielke, & Trumpp, 2022, Ulrich, Harpaintner, Trumpp, Berger, Kiefer, 2022).  
+
+Different subgroups of abstract concepts have been identified with a differential relevance of specific experiential or linguistic information (Harpaitner, Trumpp & Kiefer, 2018; Kiefer & Harpaintner 2020). Experiments investigating the use of abstract concepts reveal that people prefer starting a conversation with abstract concepts than with concrete concepts (Fini et al., 2023), that they evoke more metaphorical and beat gestures and more words referring to people and introspection (Zdrazilova et al., 2018), and more expressions referring to uncertainty and "why" questions (Villani et al., 2022), consistent with the higher uncertainty they generate. 
+
+The meanings of different kinds of abstract concepts might be weighted differently in various dimensions and might have different, even if partially overlapping, neural underpinnings. For example, emotions and interoception might be more crucial for abstract emotional concepts. The kinds of abstract concepts more commonly identified in the literature are the following: Emotions; Numbers + spatiotemporal (magnitude); Social relations; Philosophical-spiritual; Theory of mind/mentalizing; Scientific abstract concepts (Catricalà et al., 2021; Conca, Borsa, et al., 2021; Conca, Catricalà, et al., 2021; Desai et al., 2018; Diveica et al., 2023, 2023; Kiefer & Harpaintner, 2020; Kiefer, Pielke, & Trumpp, 2022, Mazzuca et al., 2022; Muraki et al., 2020; Muraki, Sidhu et al., 2022; Primativo et al., 2016; Ulrich, Harpaintner, Trumpp, Berger, & Kiefer, 2022). 
+```
+
+###### Dissents
+```{toggle}
+*Bolognesi*: The investigation into whether abstract words lack the taxonomic hierarchical organization, a hallmark of many concrete word categories, is currently underway (see Villani et al., in press). Indeed, certain types of abstract concepts exhibit a greater degree of lexical granularity than others. For instance, within the realm of spiritual concepts, Catholicism can be classified as a type of Christianity, which, in turn, falls under the broader category of monotheistic religions, which is a type of religion, and so forth. Similarly, abstract words and concepts within other social reality domains demonstrate a notably conventionalized taxonomic structure. 
+
+*Majid*: The contemporary definition of abstractness offered here uses criteria that could apply as well to concepts that typically would be identified as concrete. The proposed criteria are: (1) understood based on language, (2) draws from interoception, introspection, and metacognition, and (3) applies to “perceptually dissimilar actions and events”. Arguably all concepts rely on these criteria—for example, even concrete concepts can be perceptually dissimilar (cf. sexual dimorphism in the animal kingdom, e.g., duck, orangutan). For these criteria, it is unclear what would be excluded from the scope. It is also not obvious how to apply “understood primarily on the basis of language” across concepts or populations. Are visual concepts concrete for sighted individuals (because they are learned through perception) but abstract for blind people (because they are primarily learned via language input)? Are secondary color concepts (e.g., sepia, chartreuse) abstract because we learn about them through language use rather than ostension, but basic color concepts not abstract because they are learned under different conditions? For these reasons, the classic definition of abstract concepts that rests on opposition to the concrete definition is preferable—i.e., abstract concepts are those that are intangible and difficult to perceive directly through the senses.    
+```
+
+
+
+###  Abstraction
+
+###### Definition
+###### Background
+###### Dissents
+
+###  Action Semantics
+
+###### Definition
+###### Background
+###### Dissents
