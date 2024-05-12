@@ -2,10 +2,10 @@ CoI and Fundings
 =======================
 
 ######  Conflict of interest:
-The authors have no conflicts of interest to report. 
+The Authors have no conflicts of interest to report. 
 
 ######  Funding statements:
-The authors would like to acknowledgem the following source of funding:
+The Authors would like to acknowledgem the following source of funding:
 
 | PI                | Grant Title / Grant Organization  | 
 | :---------------- | :-------------------------------- | 
