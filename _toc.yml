@@ -11,4 +11,4 @@ parts:
   chapters:
   - file: content/EN/EN_glossary
   - file: content/IT/IT_glossary
-  - file: content/references
+  - file: content/bibliography

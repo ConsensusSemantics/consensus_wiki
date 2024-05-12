@@ -9,7 +9,7 @@ We welcome a variety of contributions:
 * changing something in the background sections
 * changing something in the definitions
 
-All the previously described contributions can easily be done opening an issue (or a pull request) on github as [detailed below](#Via-Github). Should you not be familiar with github and necessitate help, please follow the instructions at the [end of the page](#Via-Google-Form). 
+All the previously described contributions can easily be done opening an issue (or a pull request) on github as detailed below. Should you not be familiar with github and necessitate help, please follow the instructions at the end of the page. 
 
 Either way, please consider that this effort is maintained by volunteers and that response time / reactions will take some time.
 

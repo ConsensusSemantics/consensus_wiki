@@ -12,7 +12,10 @@ logo                        : semantique.png  # A path to the book logo
 exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
 bibtex_bibfiles:
    - references.bib
-
+sphinx:
+  config:
+    bibtex_reference_style: author_year
+    
 # Parse and render settings
 parse:
   myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html

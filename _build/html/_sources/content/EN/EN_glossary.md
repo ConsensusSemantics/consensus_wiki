@@ -9,7 +9,8 @@ Glossary in English
 
 ###### Background
 ```{toggle}
-The traditional definition of abstractness corresponds to the people’s understanding of abstract vs. concrete, as revealed in subjective rating studies (Paivio et al., 1968). For most words, there is high agreement among participants about the degree to which the words refer to abstract or concrete concepts. There is also high agreement across rating studies, for instance, agreement between the ratings collected by Brysbaert et al. (2014) and the MRC ratings (Coltheart, 1981), despite differences in instructions given to the participants. 
+The traditional definition of abstractness corresponds to the people’s understanding of abstract vs. concrete, as revealed in subjective rating studies 
+{cite}`paivio1968concreteness`. For most words, there is high agreement among participants about the degree to which the words refer to abstract or concrete concepts. There is also high agreement across rating studies, for instance, agreement between the ratings collected by {cite}`brysbaert2014concreteness` and the MRC ratings {cite}`coltheart1981mrc`, despite differences in instructions given to the participants. 
 
 The reason to doubt an abstract vs. concrete bipolar dimension in the semantic system is that there is no opposition between language-based and experience-based information. Both sources of information correlate positively with each other and complement each other. For instance, it is possible to produce viable concreteness ratings with embedding-based semantic vectors derived from language corpora (Hollis et al., 2017). Therefore, most information based on experience can also be retrieved based on language use. Some argue that language-based information may be easier to activate, so that the meaning of concrete words is often predominantly based on language information, as it is for abstract words (Gatti et al., 2022; Louwerse, 2018). 
 
